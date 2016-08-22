@@ -1,0 +1,105 @@
+.suggestionsBox_car {
+	position: absolute;
+	top: 326px;
+	margin: 26px 0px 0px 0px;
+	width: 250px;
+	padding:0px;
+	background-color: #000;
+	border-top: 3px solid #000;
+	color: #fff;
+}
+.suggestionList_car {
+	margin: 0px;
+	padding: 0px;
+}
+.suggestionList_car ul li {
+	list-style:none;
+	margin: 0px;
+	padding: 6px;
+	border-bottom:1px dotted #666;
+	cursor: pointer;
+}
+.suggestionList_car ul li:hover {
+	background-color: #FC3;
+	color:#000;
+}
+
+.cal-Table { border: #6666ff 1px solid; background-color: #6666cc }
+.cal-HeadCell { font-size: 8pt; font-family: Verdana, Arial, sans-serif; color: black; background-color: #99ccff; font-weight: bold }
+.cal-ComboBox { font-size: 8pt; font-family: Verdana, Arial, sans-serif; color: navy; background-color: #eaffff }
+.cal-GreyDate { font-size: 8pt; font-family: Verdana, Arial, sans-serif; color: #999999; background-color: #ffffcc; text-decoration: none }
+.cal-DayCell { font-size: 8pt; font-family: Verdana, Arial, sans-serif; background-color: white }
+
+A.cal-TodayLink { font-size: 8pt; font-family: Verdana, Arial, sans-serif; color: red; background-color: transparent; font-weight: bold; text-decoration: none }
+A.cal-TodayLink:hover { color: blue }
+A.cal-TodayLink:active { color: #0066ff }
+
+A.cal-DayLink { font-size: 8pt; font-family: Verdana, Arial, sans-serif; color: black; background-color: transparent; text-decoration: none }
+A.cal-DayLink:hover { font-weight: bold; color: blue }
+A.cal-DayLink:active { color: #0066ff }
+TABLE.cal 	{ COLOR: #c0c0c0; WIDTH: 200px }
+TD.cal 		{ FONT-FAMILY: tahoma; FONT-SIZE: 12pt; TEXT-ALIGN: center }
+INPUT.cal 	{ COLOR: white; BACKGROUND: black; BORDER: none; WIDTH: 20 }
+A.cal:link 	{ COLOR: white; }
+A.cal:visited 	{ COLOR: white; }
+A.cal:active 	{ COLOR: white; }
+A.cal:hover 	{ COLOR: gray; }
+
+ /* Font Definitions */
+@font-face
+	{font-family:"TH SarabunPSK";
+	panose-1:2 11 5 0 4 2 0 2 0 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593835409 1342185562 0 0 65923 0;}
+ /* Style Definitions */
+ 
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:18.0pt 37.3pt 9.0pt 54.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+@page Section2
+	{size:595.3pt 841.9pt;
+	margin:18.0pt 37.3pt 9.0pt 54.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section2
+	{page:Section2;}	
+
+ /* Style Definitions 
+table.MsoTableGrid
+	{mso-style-name:เส้นตาราง;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;} */
